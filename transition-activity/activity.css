@@ -34,7 +34,7 @@ p {
   bottom: 4px;
   left: 57px;
   background: transparent;
-  transition: background 0.35s ease-out;
+  transition: 2s;
 }
 
 .caption:hover::before {
@@ -68,8 +68,8 @@ p {
   -webkit-transform: translateY(100%);
   transform: translateY(100%);
 
-  transition: -webkit-transform 0.35s ease-out;
-  transition: transform 0.35s ease-out;
+  transition: -webkit-transform 1s ease-out;
+  transition: transform 1s ease-out;
 }
 
 .caption:hover .caption__overlay {
@@ -81,8 +81,8 @@ p {
   -webkit-transform: translateY(-webkit-calc(-100% - 10px));
   transform: translateY(calc(-100% - 10px));
 
-  transition: -webkit-transform 0.35s ease-out;
-  transition: transform 0.35s ease-out;
+  transition: -webkit-transform 1s ease-out;
+  transition: transform 1s ease-out;
 }
 
 .caption:hover .caption__overlay__title {
