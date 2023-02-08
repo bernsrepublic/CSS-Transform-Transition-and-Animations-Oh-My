@@ -33,7 +33,6 @@ nav {
     transform: rotateZ(0);
   }
   to {
-    transform: translateY(100%);
     transform: rotateZ(45deg) translateY(23.5px) translateX(23.5px);
   }
 }
