@@ -30,9 +30,9 @@ p {
   content: " ";
   position: absolute;
   top: 0;
-  right: 60px;
+  right: 00px;
   bottom: 4px;
-  left: 57px;
+  left: 0px;
   background: transparent;
   transition: 2s;
 }
@@ -59,9 +59,9 @@ p {
 .caption__overlay {
   position: absolute;
   top: 0;
-  right: 65px;
+  right: 0px;
   bottom: 0;
-  left: 65px;
+  left: 0px;
   padding: 10px;
   color: white;
 
